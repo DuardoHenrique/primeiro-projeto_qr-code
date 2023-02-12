@@ -1,0 +1,45 @@
+
+body {
+    height: 100vh;
+    min-width: 100vw;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container .card img {
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.container .card {
+    background-color: hsl(0, 0%, 100%);
+    flex-wrap: wrap;
+    width: 250px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.container .card .texto {
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+.container .card .span{
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
+}
+
+.container .card .span span{
+    text-align: center;
+    padding: 10px;
+    font-size: 13px;
+}
