@@ -7,6 +7,7 @@
 
 ## Visualização dispositivos móveis
 [<img src="./src/design/mobile.png">](https://duardohenrique.github.io/primeiro-projeto_qr-code/)
+
 (Pressione CTRL + clique para visualizar o projeto em uma nova guia)
 
 <hr>
